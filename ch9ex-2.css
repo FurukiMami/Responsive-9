@@ -65,9 +65,18 @@ footer {
   background-color: #aaa;
 }
 
-@media screen and (max-width:425px){
+@media screen and (max-width:768px){
   main{
     display: block;
+    margin: auto;
+    width: 90%;
   }
+  
+
+  .item-box{
+    width: 90%;
+    margin: 0 auto;
+  } 
+  
 
 }
