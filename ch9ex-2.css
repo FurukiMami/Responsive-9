@@ -70,12 +70,15 @@ footer {
     display: block;
     margin: auto;
     width: 90%;
+    margin-top: 50px;
+    margin-bottom: 50px;
   }
   
 
   .item-box{
     width: 90%;
     margin: 0 auto;
+    margin-bottom: 20px;
   } 
   
 
